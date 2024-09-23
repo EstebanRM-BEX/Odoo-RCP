@@ -1,0 +1,1 @@
+ /Users/estebanrodriguezmarles/Desktop/odoo_rcp/.dart_tool/flutter_build/2862f82161f072b794eff640affcbb9f/native_assets.yaml: 
